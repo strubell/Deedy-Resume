@@ -13,8 +13,8 @@
 \usepackage{hyperref}
 
 % Publications
-\usepackage{cite}
-\renewcommand\refname{\vskip -1.5cm}
+%\usepackage{cite}
+%\renewcommand\refname{\vskip -1.5cm}
 
 % Color definitions
 \usepackage[usenames,dvipsnames]{xcolor} 
